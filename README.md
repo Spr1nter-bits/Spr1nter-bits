@@ -2,6 +2,35 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+
+
+<h1 align="center"><b>Hi, I'm Esteban Dacosta</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<img align="right" width="300px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+<br><br>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+Welcome to my corner of the web! I’m a passionate software developer with a focus on both front-end and back-end technologies. My goal is to create efficient, scalable, and user-friendly applications that can make a difference.
+
+- 🌱 I’m currently exploring:
+  - **Nest.js**
+  - **Angular**
+  
+- 👯 I’m always excited to collaborate on open-source projects and contribute to the tech community.
+  
+- ✔ Have a question or need help? Don’t hesitate to reach out—I’m here to assist.
+
+When I’m not coding, you can find me:
+- 🎮 Enjoying a good video game.
+- 🎧 Immersing myself in my favorite music.
+- 📚 Diving into thought-provoking books, especially science-related ones.
+  
+Feel free to check out my social media profiles, where I share insights on programming and tech!  
+
+📫 Reach out to me at: <a href="mailto:estebandacosta1@gmail.com">estebandacosta1@gmail.com</a>
+
+
 <br><br>
 ### 🛠 &nbsp;Tech Stack
 
