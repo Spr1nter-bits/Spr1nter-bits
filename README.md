@@ -4,9 +4,6 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-
-<br><br>
-
 Welcome to my corner of the web! I’m a passionate software developer with a focus on both front-end and back-end technologies. My goal is to create efficient, scalable, and user-friendly applications that can make a difference.
 
 - 🌱 I’m currently exploring:
