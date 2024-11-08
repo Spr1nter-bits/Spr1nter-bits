@@ -17,7 +17,7 @@ Welcome to my corner of the web! I’m a passionate software developer with a fo
 When I’m not coding, you can find me:
 - 🎮 Enjoying a good video game.
 - 🎧 Immersing myself in my favorite music.
-- 📚 Diving into thought-provoking books, especially science-related ones.
+- 📚 Immerse myself in books, especially those about programming or distopias..
   
 Feel free to check out my social media profiles, where I share insights on programming and tech!  
 
