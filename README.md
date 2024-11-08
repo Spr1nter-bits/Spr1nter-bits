@@ -12,9 +12,9 @@
 Welcome to my corner of the web! I’m a passionate software developer with a focus on both front-end and back-end technologies. My goal is to create efficient, scalable, and user-friendly applications that can make a difference.
 
 - 🌱 I’m currently exploring:
-  - **Nest.js**
-  - **Angular**
-  
+  - **Laravel**
+  - **React Native**
+      
 - 👯 I’m always excited to collaborate on open-source projects and contribute to the tech community.
   
 - ✔ Have a question or need help? Don’t hesitate to reach out—I’m here to assist.
